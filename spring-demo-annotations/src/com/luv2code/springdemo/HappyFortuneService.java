@@ -12,7 +12,10 @@ public class HappyFortuneService implements FortuneService {
 	@Override
 	public String getDailyFortune() {
 		// TODO Auto-generated method stub
-		return "happy fortune";
+
+		System.out.println("print git");
+		return "Happy Fortune";
+
 	}
 
 }
