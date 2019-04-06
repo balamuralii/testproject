@@ -13,7 +13,7 @@ public class HappyFortuneService implements FortuneService {
 	public String getDailyFortune() {
 		// TODO Auto-generated method stub
 		System.out.println("print git");
-		return "happy fortune";
+		return "Happy Fortune";
 	}
 
 }
